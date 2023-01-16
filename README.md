@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kirgnition
 - 👀 I’m interested in Mathematics and ways to visualize interesting physical-mathematical phenomena using various programming languages
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on any project i find interesting
 - 📫 Send me a mail if you'd like to work with me!
 
